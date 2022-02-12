@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<a href=""><img title="Credit" src="https://img.shields.io/badge/PRODUCED%20BY-ANSHAJ AND PRATEEK-orange"></a>
+<a href=""><img title="Credit" src="https://img.shields.io/badge/PRODUCED%20BY-ANSHAJ-orange"></a>
 </p>
 
 
